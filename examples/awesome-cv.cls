@@ -138,7 +138,7 @@
 \colorlet{lighttext}{lightgray}
 % Awesome colors
 \definecolor{awesome-emerald}{HTML}{00A388}
-\definecolor{awesome-skyblue}{HTML}{0395DE}
+\definecolor{awesome-skyblue}{HTML}{0E5593}
 \definecolor{awesome-red}{HTML}{DC3522}
 \definecolor{awesome-pink}{HTML}{EF4089}
 \definecolor{awesome-orange}{HTML}{FF6138}

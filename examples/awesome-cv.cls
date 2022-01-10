@@ -46,6 +46,8 @@
 %-------------------------------------------------------------------------------
 %                3rd party packages
 %-------------------------------------------------------------------------------
+% Add hungarian language package
+\RequirePackage[magyar,english]{babel}
 % Needed to make fixed length table
 \RequirePackage{array}
 % Needed to handle list environment
